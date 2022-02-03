@@ -7,3 +7,5 @@ My name is Mingshi Cai, I live in ShenZhen, China 🇨🇳 and my timezone is UT
 - 📸 I like photography and video games.
 
 My homepage is at: https://unoiou.com
+
+Please DO NOT send job hiring emails to me in half year.
