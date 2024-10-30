@@ -12,7 +12,3 @@ My name is Mingshi Cai, I live in ShenZhen, China 🇨🇳 and my timezone is UT
 - 📸 I like photography and video games.
 
 🏠 My homepage is at: https://unoiou.com
-
-🔥 If you have any question or need help, feel free to contact me. You can scan following qr code to join a QQ group to get in touch.
-
-<img src='./imgs/qq_group_1.jpg' width='200'>
